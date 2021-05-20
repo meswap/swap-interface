@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://bollo.me/',
+    href: 'https://1may.finance/',
   },
   {
     label: 'Trade',
@@ -20,12 +20,8 @@ const config: MenuEntry[] = [
         href: '/pool',
       },
       {
-        label: 'PancakeSwap Bolo',
-        href: 'https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x1921168344840d1ca5acd82e8815f24582d4ad27',
-      },
-      {
-        label: 'PancakeSwap BoloX',
-        href: 'https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x1921168344840d1ca5acd82e8815f24582d4ad27',
+        label: 'PancakeSwap',
+        href: 'https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x287273776A5e20201F1716228E368a1Db4cfee01',
       },
     ],
   },
@@ -34,22 +30,21 @@ const config: MenuEntry[] = [
     icon: 'InfoIcon',
     items: [
       {
-        label: 'Bolo@DexGuru',
-        href: 'https://dex.guru/token/0x1921168344840d1ca5acd82e8815f24582d4ad27-bsc',
+        label: 'DexGuru',
+        href: 'https://dex.guru/token/0x287273776a5e20201f1716228e368a1db4cfee01-bsc',
       },
       {
-        label: 'Bolo@PooCoin',
-        href: 'https://poocoin.app/tokens/0x1921168344840d1ca5acd82e8815f24582d4ad27',
+        label: 'PooCoin',
+        href: 'https://poocoin.app/tokens/0x287273776A5e20201F1716228E368a1Db4cfee01',
       },
       {
-        label: 'BoloX@DexGuru',
-        href: 'https://dex.guru/token/0x1921168344840d1ca5acd82e8815f24582d4ad27-bsc',
+        label: 'BoggedFinance',
+        href: 'https://charts.bogged.finance/?token=0x287273776A5e20201F1716228E368a1Db4cfee01',
       },
       {
-        label: 'BoloX@PooCoin',
-        href: 'https://poocoin.app/tokens/0x1921168344840d1ca5acd82e8815f24582d4ad27',
+        label: 'DexTools',
+        href: 'https://www.dextools.io/app/pancakeswap/pair-explorer/0xc8247e111041399f4d9bb1f3a1a16024a91f036b',
       },
-
     ],
   },
   {
@@ -57,14 +52,9 @@ const config: MenuEntry[] = [
     icon: 'ListingIcon',
     items: [
       {
-        label: 'Bolo',
-        href: 'https://bscscan.com/address/0x1921168344840d1ca5acd82e8815f24582d4ad27',
-      },
-      {
-        label: 'BoloX',
-        href: 'https://bscscan.com/address/0x287273776A5e20201F1716228E368a1Db4cfee01',
-      },
-
+        label: 'BscScan',
+        href: 'https://bscscan.com/address/0x287273776A5e20201F1716228E368a1Db4cfee01#code',
+      }
     ],
   },
   // {
@@ -128,11 +118,11 @@ const config: MenuEntry[] = [
       // },
       {
         label: 'Github',
-        href: 'https://github.com/BolloProject',
+        href: 'https://github.com/1mayfinance',
       },
       {
         label: 'Twitter',
-        href: 'https://twitter.com/BolloProject/',
+        href: 'https://twitter.com/1mayfinance/',
       }
     ],
   },

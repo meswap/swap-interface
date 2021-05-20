@@ -6,8 +6,8 @@
   "dependencies": {
     "@crowdin/crowdin-api-client": "^1.8.16",
     "@ethersproject/experimental": "^5.0.1",
-    "@pancakeswap-libs/sdk": "https://github.com/1mayfinance/1may-sdk",
-    "@pancakeswap-libs/uikit": "https://github.com/BolloProject/bolo2-uikit",
+    "@pancakeswap-libs/sdk": "https://github.com/meswap/swap-sdk",
+    "@pancakeswap-libs/uikit": "https://github.com/Sadiqeen/1may-uikit#red-theme",
     "@popperjs/core": "^2.4.4",
     "@reach/dialog": "^0.10.3",
     "@reach/portal": "^0.10.3",

@@ -5,9 +5,9 @@ import { useUserSlippageTolerance } from 'state/user/hooks'
 import QuestionHelper from '../QuestionHelper'
 import TranslatedText from '../TranslatedText'
 
-const MAX_SLIPPAGE = 9000
+const MAX_SLIPPAGE = 5000
 const RISKY_SLIPPAGE_LOW = 50
-const RISKY_SLIPPAGE_HIGH = 4000
+const RISKY_SLIPPAGE_HIGH = 500
 
 const StyledSlippageToleranceSettings = styled.div`
   margin-bottom: 16px;
@@ -61,7 +61,6 @@ const SlippageToleranceSettings = () => {
   useEffect(() => {
     try {
       const rawValue = value * 100
-      console.log(rawValue)
       if (!Number.isNaN(rawValue) && rawValue > 0 && rawValue < MAX_SLIPPAGE) {
         setUserslippageTolerance(rawValue)
         setError(null)
