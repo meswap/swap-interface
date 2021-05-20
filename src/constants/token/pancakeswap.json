@@ -1,0 +1,127 @@
+{
+  "name": "pancakeswap",
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "/images/coins/wbnb.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.png"
+    },
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0x615446C0Fd5eA8A5FD7fb763f3FC2C58774474F3",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/BTC.png"
+    },
+    {
+      "name": "Fake JFIN Token",
+      "symbol": "FJFIN",
+      "address": "0x8582346cc68ae101869fd1612b1a4b29b8c5328c",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/BTC.png"
+    },    
+    
+    {
+      "name": "Bakery Token",
+      "symbol": "BAKE",
+      "address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/bake.png"
+    },
+    {
+      "name": "Bollo Token",
+      "address": "0x1921168344840d1ca5acd82e8815f24582d4ad27",
+      "symbol": "BOLO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "/images/coins/bolo.png"
+    },    
+    {
+      "name": "Dolly Stable Coin",
+      "symbol": "DOLLY",
+      "address": "0xff54da7caf3bc3d34664891fc8f3c9b6dea6c7a5",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/dolly.png"
+    },
+    {
+      "name": "Binance-Peg USD Coin",
+      "symbol": "USDC",
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/usdc.png"
+    },    
+    {
+      "name": "Bollo Token",
+      "symbol": "MAY",
+      "address": "0x287273776a5e20201f1716228e368a1db4cfee01",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/may.png"
+    },
+    {
+      "name": "SafeBSC Token",
+      "symbol": "SCZ",
+      "address": "0x39f1014a88c8ec087cedf1bfc7064d24f507b894",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/scz.png"
+    },  
+    {
+      "name": "Doublemoon Token",
+      "symbol": "DBM",
+      "address": "0x0314e5a39806C30D67B869EE1bCDABee7e08dE74",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "/images/coins/scz.png"
+    },  
+    {
+      "name": "Dopple Token",
+      "symbol": "DOP",
+      "address": "0x844fa82f1e54824655470970f7004dd90546bb28",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/dop.png"
+    },      
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x55d398326f99059ff775485246999027b3197955.png"
+    },        
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.png"
+    }
+  ]
+}
+
